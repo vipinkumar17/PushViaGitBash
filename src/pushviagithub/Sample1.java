@@ -6,6 +6,7 @@ public class Sample1 {
 
 		System.out.println("Push Via Command Line");
 		System.out.println(" My second commit");
+		System.out.println("Push Via Branch");
 	}
 
 }
